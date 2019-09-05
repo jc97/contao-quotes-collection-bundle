@@ -36,7 +36,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/jc97/contao-quotes-collection/issues",
-        "source": "https://github.com/jc97/contao-quotes-collection"
+        "issues": "https://github.com/jc97/contao-quotes-collection-bundle/issues",
+        "source": "https://github.com/jc97/contao-quotes-collection-bundle"
     }
 }
