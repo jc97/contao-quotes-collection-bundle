@@ -1,0 +1,10 @@
+<?php $this->extend('block_unsearchable'); ?>
+
+<?php $this->block('content'); ?>
+
+	<div id="quote_container">
+		<p class="quote_text"><?php echo $this->text; ?></p>
+		<p class="quote_author <?php echo ($this->author != '') ? 'quote_author_known' : 'quote_author_unknown'; ?>"><?php echo $this->author; ?></p>
+	</div>
+
+<?php $this->endblock(); ?>
