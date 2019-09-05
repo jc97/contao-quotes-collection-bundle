@@ -14,3 +14,4 @@ $GLOBALS['TL_LANG']['tl_quotes']['new']['0']                 = 'Neues Zitat';
 $GLOBALS['TL_LANG']['tl_quotes']['new']['1']                 = 'Ein neues Zitat anlegen';
 $GLOBALS['TL_LANG']['tl_quotes']['edit']['0']                = 'Zitat bearbeiten';
 $GLOBALS['TL_LANG']['tl_quotes']['edit']['1']                = 'Zitat ID %s bearbeiten';
+$GLOBALS['TL_LANG']['tl_quotes']['quote_legend']             = 'Zitat';
