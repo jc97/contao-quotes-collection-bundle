@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of [package name].
+ * This file is part of contao-quotes-collection-bundle.
  *
- * (c) John Doe
+ * (c) Julian Knorr
  *
  * @license LGPL-3.0-or-later
  */
