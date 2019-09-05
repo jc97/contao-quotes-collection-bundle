@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Contao\\ContaoQuotesCollectionBundle\\": "src/"
+            "jc97\\ContaoQuotesCollectionBundle\\": "src/"
         },
         "classmap": [
             "src/Resources/contao/"
