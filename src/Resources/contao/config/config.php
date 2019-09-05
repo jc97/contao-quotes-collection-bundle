@@ -8,3 +8,6 @@ $GLOBALS['BE_MOD']['content']['quotes'] = array
 
 // Front end modules
 $GLOBALS['FE_MOD']['miscellaneous']['quotes'] = 'jc97\ContaoQuotesCollectionBundle\Module\ModuleQuotes';
+
+// Models
+$GLOBALS['TL_MODELS']['tl_quotes'] = 'jc97\\ContaoQuotesCollectionBundle\\Model\\QuotesModel';
