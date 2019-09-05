@@ -1,5 +1,13 @@
 <?php
 
+/*
+ * This file is part of contao-quotes-collection-bundle.
+ *
+ * Copyright (c) 2019 Julian Knorr
+ *
+ * @license MIT
+ */
+
 $GLOBALS['TL_LANG']['tl_quotes']['tstamp']['0']              = 'Änderungszeitstempel';
 $GLOBALS['TL_LANG']['tl_quotes']['tstamp']['1']              = 'Zeitpunkt der letzten Änderung';
 $GLOBALS['TL_LANG']['tl_quotes']['author']['0']              = 'Urheber';
