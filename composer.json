@@ -30,7 +30,9 @@
             "jc97\\ContaoQuotesCollectionBundle\\": "src/"
         },
         "classmap": [
-            "src/Resources/contao/"
+            "src/Resources/contao/",
+            "src/Module/",
+            "src/Model/"
         ],
         "exclude-from-classmap": [
             "src/Resources/contao/config/",
