@@ -41,7 +41,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Contao\\ContaoQuotesCollectionBundle\\Tests\\": "tests/"
+            "jc97\\ContaoQuotesCollectionBundle\\Tests\\": "tests/"
         }
     },
     "support": {
