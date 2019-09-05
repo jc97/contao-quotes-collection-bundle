@@ -97,7 +97,8 @@ $GLOBALS['TL_DCA']['tl_quotes'] = array
             'filter'                  => true,
             'sorting'                 => false,
             'inputType'               => 'checkbox',
-            'sql'                     => "char(1) NOT NULL default ''"
+            'default'                 => 1,
+            'sql'                     => "char(1) NOT NULL default '1'"
         )
     )
 );
