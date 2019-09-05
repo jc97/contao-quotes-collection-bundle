@@ -4,7 +4,7 @@ namespace jc97\ContaoQuotesCollectionBundle\Model;
 
 use Contao\Model;
 
-class QuotesModel extends \Model
+class QuotesModel extends Model
 {
     
     /**
