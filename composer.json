@@ -1,5 +1,5 @@
 {
-    "name": "jc97/contao-quotes-collection",
+    "name": "jc97/contao-quotes-collection-bundle",
     "type": "contao-bundle",
     "description": "Contao 4 Quotes Collection Bundle",
     "license": "LGPL-3.0-or-later",
