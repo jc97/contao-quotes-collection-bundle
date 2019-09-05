@@ -1,6 +1,6 @@
 <?php
 
-namespace jc97\ContaoQuotesCollectionBundle;
+namespace jc97\ContaoQuotesCollectionBundle\Model;
 
 use Contao\Model;
 
