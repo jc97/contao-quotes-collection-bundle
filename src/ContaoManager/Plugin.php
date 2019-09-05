@@ -8,13 +8,13 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Contao\ContaoQuotesCollectionBundle;\ContaoManager;
+namespace jc97\ContaoQuotesCollectionBundle\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
 use Contao\ManagerPlugin\Bundle\Config\BundleConfig;
 use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
-use Contao\ContaoQuotesCollectionBundle;\ContaoContaoQuotesCollectionBundle;;
+use jc97\ContaoQuotesCollectionBundle\ContaoContaoQuotesCollectionBundle;
 
 class Plugin implements BundlePluginInterface
 {
@@ -24,7 +24,7 @@ class Plugin implements BundlePluginInterface
     public function getBundles(ParserInterface $parser)
     {
         return [
-            BundleConfig::create(ContaoContaoQuotesCollectionBundle;::class)
+            BundleConfig::create(ContaoContaoQuotesCollectionBundle::class)
                 ->setLoadAfter([ContaoCoreBundle::class]),
         ];
     }

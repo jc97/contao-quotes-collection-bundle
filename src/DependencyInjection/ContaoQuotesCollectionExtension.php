@@ -8,7 +8,7 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Contao\ContaoQuotesCollectionBundle\DependencyInjection;
+namespace jc97\ContaoQuotesCollectionBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

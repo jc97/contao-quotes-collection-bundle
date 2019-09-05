@@ -8,9 +8,9 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Contao\ContaoQuotesCollectionBundle\Tests;
+namespace jc97\ContaoQuotesCollectionBundle\Tests;
 
-use Contao\ContaoQuotesCollectionBundle\ContaoQuotesCollectionBundle;
+use jc97\ContaoQuotesCollectionBundle\ContaoQuotesCollectionBundle;
 use PHPUnit\Framework\TestCase;
 
 class ContaoQuotesCollectionBundleTest extends TestCase
@@ -19,6 +19,6 @@ class ContaoQuotesCollectionBundleTest extends TestCase
     {
         $bundle = new ContaoQuotesCollectionBundle();
 
-        $this->assertInstanceOf('Contao\ContaoQuotesCollectionBundle\ContaoQuotesCollectionBundle', $bundle);
+        $this->assertInstanceOf('jc97\ContaoQuotesCollectionBundle\ContaoQuotesCollectionBundle', $bundle);
     }
 }
