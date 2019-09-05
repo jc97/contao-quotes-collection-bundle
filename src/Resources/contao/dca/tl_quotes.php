@@ -80,7 +80,7 @@ $GLOBALS['TL_DCA']['tl_quotes'] = array
             'exclude'                 => true,
             'search'                  => true,
             'inputType'               => 'text',
-            'eval'                    => array('mandatory' => false, 'maxlength'=>255, 'tl_class'=>'w50'),
+            'eval'                    => array('mandatory' => false, 'maxlength'=>255   ),
             'sql'                     => "varchar(255) NOT NULL default ''"
         ),
         'text' => array
