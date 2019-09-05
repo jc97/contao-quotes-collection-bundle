@@ -3,9 +3,9 @@
 /*
  * This file is part of contao-quotes-collection-bundle.
  *
- * (c) Julian Knorr
+ * Copyright (c) 2019 Julian Knorr
  *
- * @license LGPL-3.0-or-later
+ * @license MIT
  */
 
 namespace jc97\ContaoQuotesCollectionBundle\ContaoManager;
